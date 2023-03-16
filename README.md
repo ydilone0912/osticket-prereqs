@@ -48,3 +48,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 8- Set up the cron job: osTicket requires a cron job to handle automatic tasks such as email fetching, task scheduling, and more. Follow the instructions in the installation wizard to set up a cron job.
 
 9- Login to osTicket: Once the installation is complete, log in to osTicket with the admin account you created during the installation process.
+
+
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: (https://twitter.com/ydilone0912)
+[instagram]: (https://www.instagram.com/gio0912/)
+[linkedin]: linkedin.com/in/yovanny-dilone-3242a8247
